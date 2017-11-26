@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Python Básico para Cientistas
 
-You can use the [editor on GitHub](https://github.com/bthoven/pbc17/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Minicurso realizado em 2017 no Observatório Nacional.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Tópicos
 
-### Markdown
+1. Introdução ao Python
+2. NumPy e SciPy
+3. Análise de dados com o Pandas
+4. Otimização de código
+5. Visualização com Matplotlib
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bthoven/pbc17/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Lista de exercícios
