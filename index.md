@@ -8,6 +8,6 @@
 
 <br><br>
 
-## Lista de exercícios
+## Exercícios
 
 [Aula 1](exercicios/Exercicios-aula-1)
