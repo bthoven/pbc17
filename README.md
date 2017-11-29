@@ -12,5 +12,5 @@ Minicurso realizado no Observatório Nacional entre 27/Nov e 01/Dez de 2017.
 
 <br><br>
 
-### Lista de exercícios
+### Exercícios
 [Aula 1](exercicios/Exercicios-aula-1)
