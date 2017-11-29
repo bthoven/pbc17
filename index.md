@@ -1,4 +1,4 @@
-### Tópicos
+## Tópicos
 
 1. Introdução ao Python
 2. NumPy e SciPy
@@ -6,4 +6,4 @@
 4. Visualização com Matplotlib
 5. Otimização de código
 
-### Lista de exercícios
+## Lista de exercícios
