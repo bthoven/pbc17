@@ -8,4 +8,4 @@
 
 ## Lista de exercícios
 
-[Aula 1](exercicios/Exercicios-aula-1.md)
+[Aula 1](exercicios/Exercicios-aula-1)
