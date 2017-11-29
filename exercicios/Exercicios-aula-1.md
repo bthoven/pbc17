@@ -1,5 +1,5 @@
 ## Exercícios da aula 1
-[(voltar)](./)
+[(voltar)](/)
 
 <br>
 
