@@ -10,7 +10,8 @@ Minicurso realizado no Observatório Nacional entre 27/Nov e 01/Dez de 2017.
 4. Visualização com Matplotlib
 5. Otimização de código
 
-<br><br>
+<br>
+
 
 ### Exercícios
 [Aula 1](exercicios/Exercicios-aula-1)
