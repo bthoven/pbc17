@@ -4,7 +4,7 @@
 <br>
 
 
-### Estruturas de decisão
+#### Estruturas de decisão
 
 **(1)** Faça um programa que leia 2 notas de um aluno, calcule a média e imprima 'aprovado' ou 'reprovado' (para ser aprovado a média deve ser no mínimo 6).
 <br><br>
@@ -13,7 +13,7 @@
 <br><br>
 
 
-### Estruturas de repetição
+#### Estruturas de repetição
 
 **(3)** Escreva um programa para encontrar a soma S = 3 + 6 + 9 + .... + 333.
 <br><br>
@@ -25,7 +25,7 @@
 <br><br>
 
 
-### Funções
+#### Funções
 
 **(6)** Crie uma função para desenhar uma linha, usando o caractere '\_'. O tamanho da linha deve ser definido na chamada da função.
 <br><br>
