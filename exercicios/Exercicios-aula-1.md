@@ -1,5 +1,5 @@
 ## Exercícios da aula 1
-[(voltar)](/)
+[(voltar)](../)
 
 <br>
 
@@ -34,13 +34,13 @@ crie uma variável que guarde o número de vezes em que cada número aparece na 
 
 **(8)** Dada a tabela de preços em uma lanchonete a seguir, crie um dicionário que a represente:
 
-  | Produtos     | Preços (R$) |
-  |--------------|-------------|
-  | Salgado      | 4.50        |
-  | Lanche       | 6.50        |
-  | Suco         | 3.00        |
-  | Refrigerante | 3.50        |
-  | Doce         | 1.00        |
+    | Produtos     | Preços (R$) |
+    |--------------|-------------|
+    | Salgado      | 4.50        |
+    | Lanche       | 6.50        |
+    | Suco         | 3.00        |
+    | Refrigerante | 3.50        |
+    | Doce         | 1.00        |
 <br>
 
 **(9)** Crie um dicionário com 5 nomes de alunos e suas notas. Calcule a média aritmética e o desvio padrão dessas notas.
