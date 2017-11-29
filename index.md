@@ -6,7 +6,8 @@
 4. Visualização com Matplotlib
 5. Otimização de código
 
-<br><br>
+<br>
+
 
 ## Exercícios
 
