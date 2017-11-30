@@ -1,9 +1,7 @@
 ## Tópicos
 
 - **Aula 1:** Introdução ao Python (IPython, tipos de variáveis, listas, tuplas, dicionários)  
-
     - _Ref.:_ SciPy Lectures [1.2.2](http://www.scipy-lectures.org/intro/language/basic_types.html)  
-
 - **Aula 2:** Introdução ao Python (bibliotecas, `if/elif/else`, `while/for`, funções)  
     - _Ref.:_ SciPy Lectures [1.2.3](http://www.scipy-lectures.org/intro/language/control_flow.html), [1.2.4](http://www.scipy-lectures.org/intro/language/functions.html)  
 - **Aula 3:** Introdução ao Python (scripts e módulos), NumPy  
