@@ -16,3 +16,4 @@
 
 [Aula 1](exercicios/Exercicios-aula-1)  
 [Aula 2](exercicios/Exercicios-aula-2)  
+[Aula 3](exercicios/Exercicios-aula-3)  
