@@ -13,4 +13,4 @@ Minicurso realizado no Observatório Nacional entre 27/Nov e 01/Dez de 2017.
 <br>
 
 
-Link para o site do curso: [bthoven.github.io/pbc17](https://bthoven.github.io/pbc17/)
+Link para o site do curso: [bthoven.github.io/pbc17](https://bthoven.github.io/pbc17/){:target="_blank"}
