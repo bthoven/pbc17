@@ -14,6 +14,7 @@
 <br>
 
 ## Exercícios
+---
 
 [Aula 1](exercicios/Exercicios-aula-1)  
 [Aula 2](exercicios/Exercicios-aula-2)  
@@ -22,6 +23,7 @@
 <br>
 
 ## Links importantes
+---
 
 <a href="https://www.python.org/" target="_blank">Python</a>  
 <a href="https://www.anaconda.com/" target="_blank">Anaconda</a>  
