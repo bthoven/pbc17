@@ -11,8 +11,6 @@
 - **Aula 5:** Otimização de código  
     - _Ref.:_ SciPy Lecture Notes [2.4](http://www.scipy-lectures.org/advanced/optimizing/index.html)  
 
-<br>
-
 
 ## Exercícios
 
@@ -21,22 +19,19 @@
 [Aula 3](exercicios/Exercicios-aula-3)  
 [Aula 4](exercicios/Exercicios-aula-4)  
 
-<br>
-
 
 ## Links importantes
 
 <a href="https://www.python.org/" target="_blank">Python</a>  
-[Python](https://www.python.org/)  
-[Anaconda](https://www.anaconda.com/)  
-[Jupyter](http://jupyter.org/)  
-[NumPy](http://www.numpy.org/)  
-[SciPy](https://www.scipy.org/)  
-[pandas](https://pandas.pydata.org/)  
-[SymPy](http://www.sympy.org)  
-[Matplotlib](http://matplotlib.org/)  
-[seaborn](https://seaborn.pydata.org/)  
-[plotly](https://plot.ly/)  
-[Glumpy](https://glumpy.github.io/)  
-[Cython](http://cython.org/)  
-[Numba](https://numba.pydata.org/)  
+<a href="https://www.anaconda.com/" target="_blank">Anaconda</a>  
+<a href="http://jupyter.org/" target="_blank">Jupyter</a>  
+<a href="http://www.numpy.org/" target="_blank">NumPy</a>  
+<a href="https://www.scipy.org/" target="_blank">SciPy</a>  
+<a href="https://pandas.pydata.org/" target="_blank">pandas</a>  
+<a href="http://www.sympy.org" target="_blank">SymPy</a>  
+<a href="http://matplotlib.org/" target="_blank">Matplotlib</a>  
+<a href="https://seaborn.pydata.org/" target="_blank">seaborn</a>  
+<a href="https://plot.ly/" target="_blank">plotly</a>  
+<a href="https://glumpy.github.io/" target="_blank">Glumpy</a>  
+<a href="http://cython.org/" target="_blank">Cython</a>  
+<a href="https://numba.pydata.org/" target="_blank">Numba</a>  
