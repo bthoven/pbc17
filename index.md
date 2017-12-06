@@ -26,6 +26,7 @@
 
 ## Links importantes
 
+<a href="https://www.python.org/" target="_blank">Python</a>  
 [Python](https://www.python.org/)  
 [Anaconda](https://www.anaconda.com/)  
 [Jupyter](http://jupyter.org/)  
