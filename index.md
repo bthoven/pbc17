@@ -9,6 +9,7 @@
 - **Aula 4:** SciPy + Matplotlib  
     - _Refs.:_ SciPy Lecture Notes [1.4](http://www.scipy-lectures.org/intro/matplotlib/index.html), e [1.5](http://www.scipy-lectures.org/intro/scipy.html)  
 - **Aula 5:** Otimização de código  
+    - _Ref.:_ SciPy Lecture Notes [2.4](http://www.scipy-lectures.org/advanced/optimizing/index.html)  
 
 <br>
 
