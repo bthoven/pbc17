@@ -24,14 +24,25 @@
 
 <a href="https://www.python.org/" target="_blank">Python</a>  
 <a href="https://www.anaconda.com/" target="_blank">Anaconda</a>  
-<a href="http://jupyter.org/" target="_blank">Jupyter</a>  
-<a href="http://www.numpy.org/" target="_blank">NumPy</a>  
-<a href="https://www.scipy.org/" target="_blank">SciPy</a>  
-<a href="https://pandas.pydata.org/" target="_blank">pandas</a>  
-<a href="http://www.sympy.org" target="_blank">SymPy</a>  
-<a href="http://matplotlib.org/" target="_blank">Matplotlib</a>  
-<a href="https://seaborn.pydata.org/" target="_blank">seaborn</a>  
-<a href="https://plot.ly/" target="_blank">plotly</a>  
-<a href="https://glumpy.github.io/" target="_blank">Glumpy</a>  
-<a href="http://cython.org/" target="_blank">Cython</a>  
-<a href="https://numba.pydata.org/" target="_blank">Numba</a>  
+
+Editores e IDEs:  
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://jupyter.org" target="_blank">Jupyter</a>  
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.jetbrains.com/pycharm" target="_blank">PyCharm</a>  
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pythonhosted.org/spyder" target="_blank">Spyder</a>  
+
+Computação científica:  
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.numpy.org" target="_blank">NumPy</a>  
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.scipy.org" target="_blank">SciPy</a>  
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pandas.pydata.org" target="_blank">pandas</a>  
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.sympy.org" target="_blank">SymPy</a>  
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://scikit-learn.org" target="_blank">sciki-learn</a>  
+
+Visualização:  
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://matplotlib.org" target="_blank">Matplotlib</a>  
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://seaborn.pydata.org" target="_blank">seaborn</a>  
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://plot.ly" target="_blank">plotly</a>  
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://glumpy.github.io" target="_blank">Glumpy</a>  
+
+Otimização:  
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://cython.org" target="_blank">Cython</a>  
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://numba.pydata.org" target="_blank">Numba</a>  
