@@ -1,4 +1,5 @@
 ## Tópicos
+---
 
 - **Aula 1:** Introdução ao Python (IPython, tipos de variáveis, listas, tuplas e dicionários)  
     - _Ref.:_ SciPy Lecture Notes [1.2.2](http://www.scipy-lectures.org/intro/language/basic_types.html)  
