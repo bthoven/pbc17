@@ -20,3 +20,22 @@
 [Aula 2](exercicios/Exercicios-aula-2)  
 [Aula 3](exercicios/Exercicios-aula-3)  
 [Aula 4](exercicios/Exercicios-aula-4)  
+
+<br>
+
+
+## Links importantes
+
+[Python](https://www.python.org/)  
+[Anaconda](https://www.anaconda.com/)  
+[Jupyter](http://jupyter.org/)  
+[NumPy](http://www.numpy.org/)  
+[SciPy](https://www.scipy.org/)  
+[pandas](https://pandas.pydata.org/)  
+[SymPy](http://www.sympy.org)  
+[Matplotlib](http://matplotlib.org/)  
+[seaborn](https://seaborn.pydata.org/)  
+[plotly](https://plot.ly/)  
+[Glumpy](https://glumpy.github.io/)  
+[Cython](http://cython.org/)  
+[Numba](https://numba.pydata.org/)  
